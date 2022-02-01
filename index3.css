@@ -1,0 +1,31 @@
+.newlist{
+    text-align: center;
+    height: 9em;
+    width: 18em;
+    color: red;
+    border: 1px solid red;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+ }
+
+.button{
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    border: 0px;
+    font-size: 20px;
+    height: 40px;
+    width: 100px;
+}
+
+.parent{
+    
+    filter: blur(5px);
+}
+.child {
+    display: block;
+    position: absolute;
+    top: 280px;
+    left: 490px;
+    background-color: white;
+}

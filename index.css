@@ -1,0 +1,193 @@
+
+.aaa{
+    display: flex;
+}
+.tl{
+   display: inline-block;
+   justify-content: center;
+   align-items: center;
+}
+.task{
+    font-size: 50px;
+    display: inline;
+}
+.list{
+    font-size: 52px;
+    display: inline;
+
+}
+.add{
+    display: inline;
+    margin-left: 18em;
+}
+.addlist{
+    display: inline;
+    font-size: 40px;
+}
+.a{
+    display: flex;
+    margin: 100px;
+}
+.trip{
+    border: 2px solid red; 
+    border-radius: 12px;
+    height:15em ;
+    width: 12em;
+    box-shadow: 5px 5px 15px gray;
+    
+    margin-right: 2em;
+}
+.hr{
+    padding-left: 50px;
+}
+.paris{
+    text-align: center;
+    margin: 20px;
+    color: red;
+    font-size: 25px;
+}
+.completed{
+    text-align: center;
+    color: red;
+    text-decoration: line-through ;
+    font-size: 25px;
+    line-height: 40px;
+
+}
+.form{
+    font-size: 20px;
+}
+.todo{
+    border: 2px solid red; 
+    border-radius: 12px;
+    height:15em ;
+    width: 12em;
+box-shadow: 5px 5px 15px gray; 
+margin-right: 2em;
+
+}
+.todo1{
+    border: 2px solid red; 
+    border-radius: 12px;
+    height:15em ;
+    width: 12em;
+box-shadow: 5px 5px 15px gray; 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .aaa{
+   font-size: 250%;
+    
+}
+.a{
+    display: inline-flex;  
+}
+.b{
+    height: 18em;
+    width: 13em;
+    border: 2px solid red;
+    padding-left: 10px;
+    margin-right: 5%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px gray;
+}
+.c{
+    height: 18em;
+    width: 13em;
+    border: 2px solid red;
+    padding-left: 10px;
+    margin-right: 5%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px gray;
+}
+.d{
+    height: 18em;
+    width: 13em;
+    border: 2px solid red;
+    padding-left: 10px;
+    margin-right: 5%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px gray;
+}
+
+#aa{
+    text-align: center;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: line-through;
+    font-size: 18px;
+
+}
+.material-icons{
+   font-size: 20px;
+} */
